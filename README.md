@@ -1,8 +1,12 @@
 ###  Hi, I'm GIFT👋
 
-## I'm a Data Scientist , Data Analyst and Web Developer
 
-Here are some ideas to get you started:
+  ## I'm a Data Scientist , Data Analyst and Web Developer
+
+
+
+
+  Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a React Project, Data visualizaiton with Excel and Tableau
 - 🌱 I’m currently learning React.js 
