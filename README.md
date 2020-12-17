@@ -3,7 +3,7 @@
 
   ## I'm a Data Scientist , Data Analyst and Web Developer
   
-  <img align="right" alt="Coder GIF" height=250 width=350 src="https://unsplash.com/photos/G6k_uEjXygE" />
+  <img align="right"  height=250 width=350 src="https://unsplash.com/photos/G6k_uEjXygE" />
 
 
 
