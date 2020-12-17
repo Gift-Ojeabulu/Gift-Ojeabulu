@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Web development , Data Science & Machine Learning Project
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Data visualization, Data Science & Web Application Development and anything Tech related
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/gift-ojabu/) , [twitter]: https://twitter.com/GiftOjabu
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/gift-ojabu/) , [twitter]( https://twitter.com/GiftOjabu)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Aside Programming I'm a Dancer, Rapper, Drummer
 
