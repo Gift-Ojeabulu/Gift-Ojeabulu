@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on a React Project, Data visualizaiton with Excel and Tableau
 - 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on Web development , Data Science & Machine Learning Project
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with getting a job as a Data Scientist/Data Analyst/Software Engineer
 - 💬 Ask me about Data visualization, Data Science & Web Application Development and anything Tech related
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/gift-ojabu/) , [twitter]( https://twitter.com/GiftOjabu)
 - 😄 Pronouns: ... He/Him
