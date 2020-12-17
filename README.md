@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GiftOj/GiftOj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/gift-ojabu/) , 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Aside Programming I'm a Dancer, Rapper, Drummer
--->
+
