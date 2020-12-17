@@ -1,5 +1,6 @@
-###  <h1>Hi, I'm GIFT</h1>👋
+###  Hi, I'm GIFT👋
 
+## I'm a Data Scientist , Data Analyst and Web Developer
 
 Here are some ideas to get you started:
 
