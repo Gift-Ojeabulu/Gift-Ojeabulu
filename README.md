@@ -16,7 +16,7 @@
 - 💬 Ask me about Data visualization, Data Science & Web Application Development.
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/gift-ojabu/) , [twitter]( https://twitter.com/GiftOjabu)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...Aside Programming I'm a Dancer, Rapper, Drummer
+- ⚡ Fun fact: ...Aside Programming I'm a Dancer, Rapper and Drummer
 
 
 
