@@ -24,9 +24,9 @@
 
 ### Worked with 
 
-<code><img height="70" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
-<code><img height="70" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
-<code><img height="70" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
+<code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
+<code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
+<code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" title="jquery"></code>
 <code><img height="70" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
 <code><img height="70" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
