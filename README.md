@@ -1,7 +1,7 @@
 ###  Hi, I'm GIFT👋
 
 
-  ## I'm a Data Scientist , Data Analyst and Web Developer
+  ## I'm a Data Scientist , Business Intelligence Analyst and Web Developer
   
   
   
