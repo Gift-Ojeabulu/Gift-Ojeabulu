@@ -10,10 +10,10 @@
 
 
 - 🔭 I’m currently working on a React Project, Data visualizaiton with Excel and Tableau
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning Full Stack web developement with React.js
 - 👯 I’m looking to collaborate on Web development , Data Science & Machine Learning Project
-- 🤔 I’m looking for help with getting a job as a Data Scientist/Data Analyst/Software Engineer
-- 💬 Ask me about Data visualization, Data Science & Web Application Development.
+- 🤔 I’m looking for help with getting a job as a Data Scientist/Data Analyst/Business Intelligence Analyst/Machine Learning Engineer.
+- 💬 Ask me about Data visualization, Data Science & Web Development.
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/gift-ojabu/) , [twitter]( https://twitter.com/Gift_Ojeabulu)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Aside Programming I'm a Dancer, Rapper and Drummer
