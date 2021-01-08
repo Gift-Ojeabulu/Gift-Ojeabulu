@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on a React Project, Data visualizaiton with Excel and Tableau
-- 🌱 I’m currently learning Full Stack web developement with React.js, Software Engineering for Data Scientist,Deploying Machine Learning Models
+- 🌱 I’m currently learning Full Stack web developement with React.js specialization On Cousera, Software Engineering for Data Scientist on Datacamp,Deploying Machine Learning Models on Udemy
 - 👯 I’m looking to collaborate on Web App development , Data Science & Machine Learning Project
 - 🤔 I’m looking for help with getting a job as a Data Scientist/Data Analyst/Business Intelligence Analyst/Machine Learning Engineer.
 - 💬 Ask me about Data visualization, Data Science & Web Development.
