@@ -57,3 +57,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-GIFT%20OJABU-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gift-ojabu/)](https://www.linkedin.com/in/gift-ojabu/)
 [![Twitter Badge](https://img.shields.io/badge/-@Gift_Ojeabulu-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Gift_Ojeabulu)](https://twitter.com/Gift_Ojeabulu)
+[![Gmail Badge](https://img.shields.io/badge/-@giftoscart-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:giftoscart@gmail.com)](mailto:giftoscart@gmail.com)
