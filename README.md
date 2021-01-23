@@ -1,6 +1,6 @@
   
 <H1 align='center'>Hi 👋 I am Gift</H1>
-<p align='center'>I'm a Data Scientist , Business Intelligence Analyst and Software Engineer</p>
+<p align='center'>I'm a Data Scientist , Business Intelligence Analyst and Software Engineer.</p>
 
 <p align='center'>
   
