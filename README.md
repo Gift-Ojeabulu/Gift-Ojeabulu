@@ -52,3 +52,7 @@
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Gift-Ojeabulu&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
+
+### Follow me
+
+[![Linkedin Badge](https://img.shields.io/badge/-GIFT%20OJABU-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gift-ojabu/)](https://www.linkedin.com/in/gift-ojabu/)
