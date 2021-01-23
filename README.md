@@ -3,6 +3,11 @@
 
   ## I'm a Data Scientist , Business Intelligence Analyst and Software Engineer.
   
+<H1 align='center'>Hi 👋 I am Ifeanyi!</H1>
+<p align='center'>I'm a Data Scientist , Business Intelligence Analyst and Software Engineer</p>
+
+<p align='center'>
+  
   
   
   <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -14,9 +19,9 @@
 - 👯 I’m looking to collaborate on Web App development , Data Science & Machine Learning Project
 - 🤔 I’m looking for help with getting a job as a Data Scientist/Data Analyst/Business Intelligence Analyst/Machine Learning Engineer.
 - 💬 Ask me about Data visualization, Data Science & Web Development.
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/gift-ojabu/) , [twitter]( https://twitter.com/Gift_Ojeabulu), giftoscart@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Aside Programming I'm a Dancer, Rapper and Drummer
+
 
 
 
@@ -55,6 +60,15 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-GIFT%20OJABU-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gift-ojabu/)](https://www.linkedin.com/in/gift-ojabu/)
-[![Twitter Badge](https://img.shields.io/badge/-@Gift_Ojeabulu-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Gift_Ojeabulu)](https://twitter.com/Gift_Ojeabulu)
-[![Gmail Badge](https://img.shields.io/badge/-@giftoscart-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:giftoscart@gmail.com)](mailto:giftoscart@gmail.com)
+<p align='center'>
+<a href="https://twitter.com/Gift_Ojeabulu">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:giftoscart@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gift-ojabu/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+
