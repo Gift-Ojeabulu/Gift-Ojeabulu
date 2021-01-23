@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Web App development , Data Science & Machine Learning Project
 - 🤔 I’m looking for help with getting a job as a Data Scientist/Data Analyst/Business Intelligence Analyst/Machine Learning Engineer.
 - 💬 Ask me about Data visualization, Data Science & Web Development.
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/gift-ojabu/) , [twitter]( https://twitter.com/Gift_Ojeabulu)
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/gift-ojabu/) , [twitter]( https://twitter.com/Gift_Ojeabulu), giftoscart@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Aside Programming I'm a Dancer, Rapper and Drummer
 
@@ -56,3 +56,4 @@
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-GIFT%20OJABU-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gift-ojabu/)](https://www.linkedin.com/in/gift-ojabu/)
+[![Twitter Badge](https://img.shields.io/badge/-@Gift_Ojeabulu-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Gift_Ojeabulu)](https://twitter.com/Gift_Ojeabulu)
