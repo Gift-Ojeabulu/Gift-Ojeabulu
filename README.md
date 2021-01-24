@@ -1,5 +1,5 @@
   
-<H1 align='center'>Hi 👋 I am Gift</H1>
+<H1 align='center'><i>Hi 👋 I am Gift</H1><i>
 <p align='center'>I am a Data Scientist , Business Intelligence Analyst and Software Engineer.</p>
 
 <p align='center'>
