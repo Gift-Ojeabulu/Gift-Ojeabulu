@@ -1,6 +1,6 @@
   
 <H1 align='center'><i>Hi 👋 I am Gift</H1><i>
-<p align='center'>I am a Data Scientist , Business Intelligence Analyst and Software Engineer.</p>
+<p align='center'>I am a Data Scientist , Business Intelligence Analyst and Software Engineer with 2+ years experience in Information technology.I have experience with Data Science Competitions and Bootcamp,I am an ardent reader and learner always forefronted about growth and Continuous Improvement.</p>
 
 <p align='center'>
   
