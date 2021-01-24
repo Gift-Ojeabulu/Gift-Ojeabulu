@@ -1,6 +1,6 @@
   
 <H1 align='center'><i>Hi 👋 I am Gift</H1><i>
-<p align='center'>I am a Data Scientist , Business Intelligence Analyst and Software Engineer with 2+ years experience in Information technology.I have experience with Data Science Competitions and Bootcamp,I am an ardent reader and learner always forefronted about growth and Continuous Improvement.</p>
+<p align='center'>I am a Data Scientist , Business Intelligence Analyst and Software Engineer with 2+ years experience in Information technology.I have experience with Data Science Competitions and Bootcamp, Have got my B.sc in Computer Science and have Certifications across Daata science,visualization and Software Engineering with viable projects in Software Engineering,Machine Learning,Data Analysis and Visualization.I am an ardent reader and learner always forefronted about growth and Continuous Improvement.</p>
 
 <p align='center'>
   
@@ -13,10 +13,10 @@
 - 🔭 I’m currently working on Data science,visualization and software engineering project.
 - 🌱 I’m currently taking courses on Full Stack web developement with React.js specialization On Cousera, Software Engineering for Data Scientist on Datacamp,Deploying Machine Learning Models on Udemy
 - 👯 I’m looking to collaborate on Software Engineering , Data Science & Machine Learning Project
-- 🤔 I’m looking for help with getting a job as an Entry Level Data Scientist/Data Analyst/Business Intelligence Analyst/Machine Learning Engineer.
-- 💬 Ask me about Data visualization, Data Science, Machine Learning & Software Development.
+- 🤔 I’m looking for help with getting a Remote/Full-time Job as an Entry-Level Data Scientist/Data Analyst/Business Intelligence Analyst/Machine Learning Engineer.
+- 💬 Ask me about Data Visualization, Data Science, Machine Learning & Software Development.
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...Aside Programming I'm a Fashion Aficionado,A Dancer, Rapper and Drummer.
+- ⚡ Fun fact: ...Aside Programming I'm a Fashion Aficionado,Dancer, Rapper and Drummer.
 
 
 
