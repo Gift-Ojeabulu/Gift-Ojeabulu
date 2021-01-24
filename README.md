@@ -1,6 +1,6 @@
   
 <H1 align='center'><i>Hi 👋 I am Gift</H1><i>
-<p align='center'>I am a Data Scientist , Business Intelligence Analyst and Software Engineer with 2+ years experience in Information technology.I have experience with Data Science Competitions and Bootcamp, Have got  B.sc in Computer Science and have Certifications across Data science,visualization and Software Engineering with viable projects in Software Engineering,Machine Learning,Data Analysis and Visualization.I am an ardent reader and learner always forefronted about growth and Continuous Improvement.</p>
+<p align='center'>I am a Data Scientist , Business Intelligence Analyst and Software Engineer with 2+ years experience in Information technology.I have experience with Data Science Competitions and Bootcamp, Have got  B.sc in Computer Science and have Certifications and Projects across Data science,Software Engineering,Machine Learning,Data Analysis and Visualization.I am an ardent reader and learner always forefronted about Growth and Continuous Improvement.</p>
 
 <p align='center'>
   
