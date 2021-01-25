@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on Data science,visualization and software engineering project.
-- 🌱 I’m currently taking courses on Full Stack web developement with React.js specialization On Cousera, Software Engineering for Data Scientist on Datacamp,Deploying Machine Learning Models on Udemy.
+- 🌱 I’m currently taking courses on Full Stack developement with React specialization On Cousera, Software Engineering for Data Scientist on Datacamp,Deploying Machine Learning Models on Udemy.
 - 👯 I’m looking to collaborate on Software Engineering , Data Science & Machine Learning Project.
 - 🤔 I’m looking for help with getting a Remote/Full-time Job as an Entry-Level Data Scientist/Data Analyst/Business Intelligence Analyst/Machine Learning Engineer.
 - 💬 Ask me about Data Visualization, Data Science, Machine Learning & Software Development.
