@@ -55,8 +55,11 @@
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Gift-Ojeabulu&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
+
 <p align="center">
+<a href = "https://github.com/Gift-Ojeabulu">
 ![Gift-Ojeabulu' github stats](https://github-readme-stats.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&hide_border=true)
+</a>
 </p>
 
 ### Follow me
