@@ -56,6 +56,8 @@
 </a>
 </p>
 
+![Gift-Ojeabulu' github stats](https://github-readme-stats.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&hide_border=true)
+
 ### Follow me
 
 <p align='center'>
