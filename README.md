@@ -63,7 +63,7 @@
 ### Follow me
 
 <p align='center'>
-<a href="https://twitter.com/Gift_Ojeabulu">
+<a href="https://twitter.com/GiftOjeabulu_">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:giftoscart@gmail.com">
