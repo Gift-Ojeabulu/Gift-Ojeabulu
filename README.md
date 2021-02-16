@@ -45,18 +45,6 @@
 </code>
 
 
-### Follow me
-
-<p align='center'>
-<a href="https://twitter.com/GiftOjeabulu_">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:giftoscart@gmail.com">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gift-ojabu/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
 
 
 
@@ -69,5 +57,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gift-Ojeabulu&count_private=true&theme=tokyonight&line_height=52">
 </p>
+
+
+### Follow me
+
+<p align='center'>
+<a href="https://twitter.com/GiftOjeabulu_">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:giftoscart@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gift-ojabu/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 
