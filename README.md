@@ -45,29 +45,6 @@
 </code>
 
 
-
-
-
-
-
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/Gift-Ojeabulu">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Gift-Ojeabulu&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
-
-
-
-<p align="center">
-  <a href = "https://github.com/Gift-Ojeabulu">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
-
-
 ### Follow me
 
 <p align='center'>
@@ -80,5 +57,17 @@
   <a href="https://www.linkedin.com/in/gift-ojabu/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
+
+
+
+
+
+
+### Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gift-Ojeabulu&count_private=true&theme=tokyonight&line_height=52">
+</p>
 
 
