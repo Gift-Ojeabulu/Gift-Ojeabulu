@@ -1,4 +1,7 @@
   
+
+
+
 <H1 align='center'><i>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I am Gift</H1><i>
 <p align='center'>I am a Data Scientist , Business Intelligence Analyst and Software Developer with 2+ years experience in the field of Information technology.</p>
 
@@ -11,8 +14,7 @@
   <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
   
-  ![](https://komarev.com/ghpvc/?username=Gift-Ojeabulu&color=dc143c)
-
+  
 
 
 - 🔭 I’m currently working on Data science,visualization and Software engineering project.
@@ -49,6 +51,8 @@
 
 
 ---
+
+![](https://komarev.com/ghpvc/?username=Gift-Ojeabulu&color=dc143c)
 
 
 
