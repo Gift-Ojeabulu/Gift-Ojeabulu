@@ -3,7 +3,7 @@
 
 
 <H1 align='center'><i>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I am Gift</H1><i>
-<p align='center'>I am a Data Scientist , Business Intelligence Analyst and Software Developer with 2+ years experience in the field of Information technology.</p>
+
 
 <p align='center'>
   
