@@ -9,6 +9,9 @@
   
   
   <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
+  
+  ![](https://komarev.com/ghpvc/?username=Gift-Ojeabulu&color=dc143c)
 
 
 
@@ -43,6 +46,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
 </code>
+
+
+---
+
 
 
 
