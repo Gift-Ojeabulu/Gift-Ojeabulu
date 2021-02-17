@@ -57,19 +57,16 @@
 ![](https://komarev.com/ghpvc/?username=Gift-Ojeabulu&color=dc143c)
 
 
+###  Most Used Languages & Github Stats
 
+<a href="https://github.com/Gift-Ojeabulu/Gift-Ojeabulu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gift-Ojeabulu&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Gift-Ojeabulu/Gift-Ojeabulu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gift GitHub Stats" />
+</a>
 
-
-
-
-
-
-### Github Stats & Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gift-Ojeabulu&count_private=true&theme=tokyonight&line_height=52">
-</p>
+---
 
 
 ### Follow me
