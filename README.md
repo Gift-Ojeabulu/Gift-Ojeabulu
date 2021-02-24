@@ -3,9 +3,15 @@
 
 
 <H1 align='center'><i>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I am Gift</H1><i>
+  
 
 
 <p align='center'>
+  
+  
+  
+  
+
   
 
   
@@ -69,7 +75,7 @@
 ---
 
 
-### Follow me
+### Let's Connect
 
 <p align='center'>
 <a href="https://twitter.com/GiftOjeabulu_">
