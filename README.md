@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on Data science,visualization and Software engineering project.
 - 🌱 I’m currently taking courses on Software Engineering for Data Scientist on Datacamp,Deploying Machine Learning Models on Udemy.
 - 👯 I’m looking to collaborate on  Data Science & Machine Learning Project.
-- 🤔 I’m looking for help with getting a Remote/Full-time Job as A Data Scientist/Data Analyst/Business Intelligence Analyst/Machine Learning Engineer.
+- 🤔 I’m looking for help with getting a Remote/Full-time Job as A Data Scientist/Data Analyst/Machine Learning Engineer.
 - 💬 Ask me about Data Visualization, Data Science, Machine Learning & Software Development.
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ...Aside Programming I'm a Fashion Aficionado,Dancer, Rapper and Drummer.
