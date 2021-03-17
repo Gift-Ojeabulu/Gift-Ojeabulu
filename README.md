@@ -5,9 +5,10 @@
 <H1 align='center'><i>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I am Gift</H1><i>
   
 
-
 <p align='center'>
   
+  
+
   
   
   
@@ -29,6 +30,8 @@
 - 🤔 I’m looking for help with getting a Remote/Full-time Job as A Data Scientist/Data Analyst/Data Visualization Analyst.
 - 💬 Ask me about Data Science/Machine Learning.
 - ⚡ Fun fact: ...Aside Programming I'm a Fashion Aficionado,Dancer, Rapper and Drummer.
+
+---
 
 
 
