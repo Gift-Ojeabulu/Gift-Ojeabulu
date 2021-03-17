@@ -31,8 +31,6 @@
 - 💬 Ask me about Data Science/Machine Learning.
 - ⚡ Fun fact: ...Aside Programming I'm a Fashion Aficionado,Dancer, Rapper and Drummer.
 
----
-
 
 
 
