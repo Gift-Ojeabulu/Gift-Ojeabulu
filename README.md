@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on  Data Science/Machine Learning/Software Engineering Project.
 - 🤔 I’m looking for help with getting a Remote/Full-time Job as A Data Scientist/Data Analyst/Machine Learning Engineer.
 - 💬 Ask me about Data Science/Machine Learning.
-- ⚡ Fun fact: ...Aside Programming I'm a Fashion Aficionado,Dancer, Rapper and Drummer.
+- ⚡ Fun fact: ...Aside Programming I'm a Fashion Aficionado,Dancer and Rapper.
 
 
 
