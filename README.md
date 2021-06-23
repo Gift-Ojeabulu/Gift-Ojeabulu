@@ -74,6 +74,13 @@
 ---
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gift-Ojeabulu&layout=compact&count_private=true&show_icons=true&theme=merko&hide_border=true" alt="Gift-Ojeabulu" /></p> 
+  
+---
+### Blog 
+<a href="https://medium.com/@judeleonard86">                                                                               
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
+</a>&nbsp;&nbsp;   
+
 
 ---
 ### Let's Connect
