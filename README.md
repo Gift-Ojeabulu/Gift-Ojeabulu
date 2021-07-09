@@ -75,7 +75,6 @@
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gift-Ojeabulu&layout=compact&count_private=true&show_icons=true&theme=merko&hide_border=true" alt="Gift-Ojeabulu" /></p> 
   
----
 
 
 ### Let's Connect
