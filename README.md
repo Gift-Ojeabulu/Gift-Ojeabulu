@@ -79,7 +79,7 @@
 ### Blog   
   
 <p align='center'>
-<a href="https://medium.com/@judeleonard86">                                                                               
+<a href="https://medium.com/@giftojeabulu">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
 </a>&nbsp;&nbsp;   
 
