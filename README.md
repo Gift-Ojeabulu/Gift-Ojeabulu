@@ -76,12 +76,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gift-Ojeabulu&layout=compact&count_private=true&show_icons=true&theme=merko&hide_border=true" alt="Gift-Ojeabulu" /></p> 
   
 ---
-### Blog   
-  
-<p align='center'>
-<a href="https://medium.com/@giftojeabulu">                                                                               
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
-</a>&nbsp;&nbsp;   
+
 
 ### Let's Connect
 
@@ -95,5 +90,8 @@
   <a href="https://www.linkedin.com/in/gift-ojabu/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@giftojeabulu">                                                                               
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
+</a>&nbsp;&nbsp; 
 
 
