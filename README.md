@@ -24,7 +24,7 @@
   
 
 
-- 🔭 I’m currently working on Data Science and Software Engineering Project.
+- 🔭 I’m currently working on Machine Learning End-to-End Project.
 - 🌱 I’m currently taking courses on Software Engineering for Data Scientist on Datacamp,Deploying Machine Learning Models on Udemy.
 - 👯 I’m looking to collaborate on  Data Science/Machine Learning/Software Engineering Project.
 - 🤔 I’m looking for help with getting a Remote/Full-time Job as A Data Scientist/Data Analyst/Machine Learning Engineer.
