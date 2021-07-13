@@ -41,7 +41,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVIDDataApp!<img src="./icons/bookmarkit_16x16.png"width=15 height=15></b></a></td>
+      <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVID Data App!<img src="./icons/bookmarkit_16x16.png"width=15 height=15></b></a></td>
       <td> Covid-19 Real-time Surveillance System </td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@
       <td> Hepatitis B Fatality Predictor and Prescriptor.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>Holy Bible Text Analysis App!</b></a></td>
+      <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>THE HolyBible Text Analysis App!</b></a></td>
       <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
     </tr>
   </tbody>
@@ -77,7 +77,6 @@
 </code>
 
 
----
 
 ### Profile Views
 
@@ -93,7 +92,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gift GitHub Stats" />
 </a>
 
----
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gift-Ojeabulu&layout=compact&count_private=true&show_icons=true&theme=merko&hide_border=true" alt="Gift-Ojeabulu" /></p> 
   
