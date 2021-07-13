@@ -31,7 +31,31 @@
 - 💬 Ask me about Data Science/Machine Learning.
 - ⚡ Fun fact: ...Aside Programming I'm a Fashion Aficionado,Dancer and Rapper.
 
-
+<h2>Projects I'm proud of</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>☀️ Projects</b></td>
+      <td><b>💬 Description</b></td>
+      <td><b>⭐ Stars</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVIDDataApp!<img src="./icons/bookmarkit_16x16.png"width=15 height=15></b></a></td>
+      <td> Covid-19 Real-time Surveillance System </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App</b></a></td>
+      <td> Hepatitis B Fatality Predictor and Prescriptor.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GiftOjeabulu/TerraCare-public"><b>TerraCare Extension</b></a></td>
+      <td> "Save the planet from your phone" IBM - Call for Code 2020 - Energy Winner</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Gift-Ojeabulu/TerraCare-public?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
