@@ -37,7 +37,6 @@
     <tr border: none;>
       <td><b>☀️ Projects</b></td>
       <td><b>💬 Description</b></td>
-      <td><b>⭐ Stars</b></td>
     </tr>
   </thead>
   <tbody>
@@ -46,13 +45,12 @@
       <td> Covid-19 Real-time Surveillance System </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App</b></a></td>
+      <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
       <td> Hepatitis B Fatality Predictor and Prescriptor.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GiftOjeabulu/TerraCare-public"><b>TerraCare Extension</b></a></td>
-      <td> "Save the planet from your phone" IBM - Call for Code 2020 - Energy Winner</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Gift-Ojeabulu/TerraCare-public?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>Holy Bible Text Analysis App!</b></a></td>
+      <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
     </tr>
   </tbody>
 </table>
