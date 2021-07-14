@@ -54,7 +54,7 @@
     </tr>
      <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
-      <td> Tweets Customer Sentiment Analysis.</td>
+      <td> Tweets Customer Sentiment Analysis determine the overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms or across the web as a whole..</td>
     </tr>
   </tbody>
 </table>
