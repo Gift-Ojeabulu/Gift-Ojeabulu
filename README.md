@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
-      <td> Hepatitis B Fatality Predictor and Prescriptor.In the Modern world, problem-solving is the foremost goal of almost every industry/professional. The importance of using machine learning (ML) for solving problems in healthcare can't be over-emphasized. The Goal is to help health practitioners with the prediction of a patient having Hepatitis B,this can be infused into any hospital’s existing system useful in areas with scarce health personnel and limited resources.</td>
+      <td> Hepatitis B Fatality Predictor and Prescriptor help health practitioners with the prediction of a patient having Hepatitis B and prescribe ways to curb these if patient are Liable to die.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>THE HolyBible Text Analysis App!</b></a></td>
