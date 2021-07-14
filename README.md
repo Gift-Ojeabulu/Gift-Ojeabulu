@@ -42,7 +42,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVID Data App!</b></a></td>
-      <td> Covid-19 Real-time Surveillance System </td>
+      <td> Covid-19 Real-time Surveillance System  monitor COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
