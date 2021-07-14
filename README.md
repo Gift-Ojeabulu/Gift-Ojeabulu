@@ -41,7 +41,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVID Data App!<img src="./icons/bookmarkit_16x16.png"width=15 height=15></b></a></td>
+      <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVID Data App!</b></a></td>
       <td> Covid-19 Real-time Surveillance System </td>
     </tr>
     <tr>
@@ -51,6 +51,10 @@
     <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>THE HolyBible Text Analysis App!</b></a></td>
       <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
+      <td> Tweets Customer Sentiment Analysis.</td>
     </tr>
   </tbody>
 </table>
