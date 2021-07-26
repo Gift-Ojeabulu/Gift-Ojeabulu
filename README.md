@@ -40,9 +40,15 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+     <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVID Data App!</b></a></td>
       <td> Covid-19 Real-time Surveillance System  monitor COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.</td>
+    </tr>
+    <tr>
+    <tr>
+      <td><a href="https://github.com/Gift-Ojeabulu/Movie-Recommendation-System"><b>Movie Recommender App!</b></a></td>
+      <td> Content-based movie recommendation systems recommend movies to a user by using the similarity of movies. This recommender system recommends movies based on their description or features. This application provides human sentiments to movies, the ratings, about the movie and gives a detailed description of the main character in the movie.
+</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
