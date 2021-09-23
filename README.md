@@ -66,7 +66,7 @@
 </table>
   
   My latest writings are:
- * [Exploratory Data Analysis Expounded with FIFA 21 using Python](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
+ * [Exploratory Data Analysis Expounded with FIFA 21 using Python(Part 1)](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
  * [A Prelude to Data Science & Machine Learning with Javascript](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29)
  
 
