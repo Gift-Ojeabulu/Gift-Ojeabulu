@@ -7,7 +7,7 @@
 
 My name is Gift Ojeabulu. Human 😄, Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer.
 
-Currently, a Data Scientist at [CBB Analytics](https://www.cbbanalytics.com) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
+Currently, a Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
   
  Strong Languages: Python and SQL.
   
