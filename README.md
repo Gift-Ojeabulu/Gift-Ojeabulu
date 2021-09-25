@@ -53,7 +53,7 @@ Currently, a Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and pr
   My latest writings are:
  * [Exploratory Data Analysis Expounded with FIFA 21 (Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
  * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29)
- * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images Published on ResearchGate](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
+ * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images[ResearchGate]](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
  
 
 - See more of my technical articles on [Medium](https://medium.com/@giftojeabulu)
