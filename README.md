@@ -7,13 +7,13 @@
 
 My name is Gift Ojeabulu. Human 😄, Data Scientist & Machine Learning Engineer with a focus on Natural Language Processing, Occasional Speaker and Writer.
 
-Currently, a Data Scientist at [CBB Analytics](https://www.cbbanalytics.com) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/) & [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
+Currently, a Data Scientist at [CBB Analytics](https://www.cbbanalytics.com) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
   
  Strong Languages: Python and SQL.
   
   
 
-- 🤔 I’m looking for help with getting a Remote/Full-time Job as A Data Scientist/Machine Learning Engineer/Data Engineer/Software Engineer/Developer Advocate.
+- 🤔 I’m looking for help with getting a Remote/Full-time Job as a Data Scientist/Machine Learning Engineer/Data Engineer/Developer Advocate/Technical Writer.
 - ⚡ Whenever I'm not on my laptop coding, I am either making Data Science/Machine learning related post & threads on Twitter & LinkedIn,  learning a new dance step, in my space rapping or improving my singing & drumming skills.
 
 <h2>Projects I'm proud of</h2>
@@ -51,7 +51,7 @@ Currently, a Data Scientist at [CBB Analytics](https://www.cbbanalytics.com) and
 </table>
   
   My latest writings are:
- * [Exploratory Data Analysis Expounded with FIFA 21 using Python(Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
+ * [Exploratory Data Analysis Expounded with FIFA 21 (Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
  * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29)
  * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images Published on ResearchGate](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
  
