@@ -1,4 +1,4 @@
-<H1 align='center'><i>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm Gift</H1><i>
+<H1 align='center'>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm Gift</H1>
   
 
 <p align='center'>
