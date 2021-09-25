@@ -1,7 +1,3 @@
-  
-
-
-
 <H1 align='center'><i>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm Gift</H1><i>
   
 
@@ -9,27 +5,16 @@
   
   
 
+My name is Gift Ojeabulu. Human 😄, Data Scientist & Machine Learning Engineer with a focus on Natural Language Processing, Occasional Speaker and Writer.
+
+Currently, a Data Scientist at [CBB Analytics](https://www.cbbanalytics.com) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/) & [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
   
+ Strong Languages: Python and SQL.
   
   
 
-  
-
-  
-  
-  
-  <img align="right" alt="Coder GIF" height=250 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  
-  
-  
-
-
-- 🔭 I’m currently Learning Data Engineering and improving my skills in Software Engineering
-- 🌱 I’m currently taking courses on Software Engineering for Data Scientist on Datacamp,Deploying Machine Learning Models on Udemy.
-- 👯 I’m looking to collaborate on  Data Science/Machine Learning/Software Engineering Project.
 - 🤔 I’m looking for help with getting a Remote/Full-time Job as A Data Scientist/Machine Learning Engineer/Data Engineer/Software Engineer/Developer Advocate.
-- 💬 Ask me about Data Science/Machine Learning.
-- ⚡ Fun fact: ...Aside Programming I'm a Fashion Aficionado,I Sing, Good Dancer, Drummer and a Rapper.
+- ⚡ Whenever I'm not on my laptop coding, I am either making Data Science/Machine learning related post & threads on Twitter & LinkedIn,  learning a new dance step, in my space rapping or improving my singing & drumming skills.
 
 <h2>Projects I'm proud of</h2>
 <table>
@@ -66,8 +51,9 @@
 </table>
   
   My latest writings are:
- * [Exploratory Data Analysis Expounded with FIFA 21 using Python(Part 1)](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
- * [A Prelude to Data Science & Machine Learning with Javascript](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29)
+ * [Exploratory Data Analysis Expounded with FIFA 21 using Python(Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
+ * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29)
+ * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images Published on ResearchGate](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
  
 
 - See more of my technical articles on [Medium](https://medium.com/@giftojeabulu)
