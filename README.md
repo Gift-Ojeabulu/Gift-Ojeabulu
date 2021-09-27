@@ -13,7 +13,7 @@ Currently, a Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and pr
   
   
 
-- 🤔 I’m looking for help with getting a Remote/Full-time Job as a Data Scientist/Machine Learning Engineer/Data Engineer/Developer Advocate/Technical Writer.
+- 🤔 I’m looking for help with getting a Remote/Full-time Job as a Data Scientist/Machine Learning Engineer/Data Analyst/Developer Advocate/Technical Writer.
 - ⚡ Whenever I'm not on my laptop coding, I am either making Data Science/Machine learning related post & threads on Twitter & LinkedIn, Mentoring a beginner, showing them the right roadmap to learning data science, learning a new dance step, in my space rapping or improving my singing & drumming skills.
 
 <h2>Projects I'm proud of</h2>
