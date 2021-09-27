@@ -5,16 +5,16 @@
   
   
 
-My name is Gift Ojeabulu. Human 😄, Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer.
+My Name is Gift Ojeabulu. Human 😄, A Data Scientist & Machine Learning Engineer focused on Natural language processing, Occasional Speaker and Writer.
 
 Currently, a Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
   
- Strong Languages: Python and SQL.
+ Languages: Python, SQL, JavaScipt, Java .
   
   
 
 - 🤔 I’m looking for help with getting a Remote/Full-time Job as a Data Scientist/Machine Learning Engineer/Data Engineer/Developer Advocate/Technical Writer.
-- ⚡ Whenever I'm not on my laptop coding, I am either making Data Science/Machine learning related post & threads on Twitter & LinkedIn,  learning a new dance step, in my space rapping or improving my singing & drumming skills.
+- ⚡ Whenever I'm not on my laptop coding, I am either making Data Science/Machine learning related post & threads on Twitter & LinkedIn, Mentoring a beginner, showing them the right roadmap to learning data science, learning a new dance step, in my space rapping or improving my singing & drumming skills.
 
 <h2>Projects I'm proud of</h2>
 <table>
@@ -75,9 +75,6 @@ Currently, a Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and pr
   <a href="https://medium.com/@giftojeabulu">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
 </a>&nbsp;&nbsp; 
-
-
-
 
 
 
