@@ -84,7 +84,7 @@ Currently, a Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and pr
 </a>&nbsp;&nbsp;
   <a href="https://t.me/GiftOjeabulu" />
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 
 
