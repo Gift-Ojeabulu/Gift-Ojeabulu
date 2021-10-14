@@ -5,7 +5,7 @@
   
 ### Hi there 👋  
 
-My Name is Gift Oscar Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer. I am  passionate about drawing insights from data and integrating softwares with machine learning.I am Currently a sport Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
+My Name is Gift Oscar Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer. I am  passionate about drawing insights from data and integrating softwares with machine learning. I am Currently a sport Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
   
  Languages: Python, SQL, JavaScipt, Java.
   
@@ -61,11 +61,11 @@ My Name is Gift Oscar Ojeabulu. A Data Scientist & Machine Learning Engineer, Oc
  
 
 Research paper:
- * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images[ResearchGate]](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
+ * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images - [ResearchGate]](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
 
 
-------------------------------------------------------------------------
-I am currently open to hiring for data scientist, machine learning engineer or developer advocacy position. 
+
+### I am currently open to hiring for data scientist, machine learning engineer or developer advocacy position. 
  
 - Learn more about me on my [website](https://gift-ojeabulu.github.io/#/)
   
