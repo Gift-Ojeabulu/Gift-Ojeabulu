@@ -1,18 +1,19 @@
-<H1 align='center'>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm Gift</H1>
+
   
 
 <p align='center'>
   
-  
+### Hi there 👋  
 
-My Name is Gift Ojeabulu. Human 😄, A Data Scientist & Machine Learning Engineer, Occasional Speaker, Writer and a Podcaster(soon).
-Currently, a Sport Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
+My Name is Gift Oscar Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer. I am  passionate about drawing insights from data and integrating softwares with machine learning.I am Currently a sport Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
   
- Languages: Python, SQL, JavaScipt, Java .
+ Languages: Python, SQL, JavaScipt, Java.
   
   
+  ---------------------------------------------------------------------------
 
-- 🤔 I’m looking for help with getting a Remote/Full-time Job as a Data Scientist/Machine Learning Engineer/Data Analyst/Developer Advocate/Technical Writer.
+- 👯 I’m looking to collaborate on open source tools for data science and machine learning.
+- 💬 Ask me about OSS, Machine Learning and Data Science.
 - ⚡ Whenever I'm not on my laptop coding, I am either making Data Science/Machine learning related Blog posts, Twitter threads, LinkedIn posts,Mentoring a beginner, showing them the right roadmap to learning data science, learning a new dance step, in my space rapping to a beat or improving my singing & drumming skills.
 
 <h2>Projects I'm proud of</h2>
@@ -57,7 +58,14 @@ Currently, a Sport Data Scientist at [CBB Analytics](https://cbbanalytics.com/) 
  * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2)
  * [Exploratory Data Analysis Expounded with FIFA 21 (Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
  * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29)
+ 
+
+Research paper:
  * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images[ResearchGate]](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
+
+
+------------------------------------------------------------------------
+I am currently open to hiring for data scientist, machine learning engineer or developer advocacy position. 
  
 - Learn more about me on my [website](https://gift-ojeabulu.github.io/#/)
   
@@ -103,7 +111,7 @@ Currently, a Sport Data Scientist at [CBB Analytics](https://cbbanalytics.com/) 
 ### Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Gift-Ojeabulu&color=dc143c)
-
+  
 
 ###  Most Used Languages & Github Stats
 
