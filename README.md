@@ -65,7 +65,7 @@ Research paper:
 
 
 
-### I am currently open to hiring for data scientist, machine learning engineer or developer advocacy for Machine learning Engineer position. 
+### I am currently open to hiring for data scientist, machine learning engineer or developer advocacy for machine learning position. 
  
 - Learn more about me on my [website](https://gift-ojeabulu.github.io/#/)
   
