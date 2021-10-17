@@ -14,7 +14,7 @@ My Name is Gift Oscar Ojeabulu. A Data Scientist & Machine Learning Engineer, Oc
 
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 Ask me about OSS, Machine Learning and Data Science.
-- ⚡ Whenever I'm not on my laptop coding, I am either making Data Science/Machine learning related Blog posts, Twitter threads, LinkedIn posts,Mentoring a beginner, showing them the right roadmap to learning data science, learning a new dance step, in my space rapping to a beat or improving my singing & drumming skills.
+
 
 <h2>Projects I'm proud of</h2>
 <table>
