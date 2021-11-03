@@ -1,8 +1,6 @@
 
   
 
-<p align='center'>
-  
 ### Hi there 👋  
 
 My Name is Gift Oscar Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer. I am  passionate about drawing insights from data and integrating softwares with machine learning. I am Currently a Sport Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
@@ -53,6 +51,13 @@ My Name is Gift Oscar Ojeabulu. A Data Scientist & Machine Learning Engineer, Oc
     </tr>
   </tbody>
 </table>
+
+
+<a href="https://app.daily.dev/GiftOscar"  target="_blank">
+  <img
+    width="256"
+    align="right"
+    src="https://api.daily.dev/devcards/27573c50e49b486ab99ada82dae2d4e6.png?r=gxw" width="400" alt="Gift Ojeabulu's Dev Card"/></a>
   
  ### 📝 Latest Writing
  * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2)
@@ -88,6 +93,8 @@ Research paper:
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
   
+  
+
 
 ### Worked with 
 
@@ -118,11 +125,12 @@ Research paper:
 <a href="https://github.com/Gift-Ojeabulu/Gift-Ojeabulu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gift-Ojeabulu&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+    
 <a href="https://github.com/Gift-Ojeabulu/Gift-Ojeabulu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gift GitHub Stats" />
 </a>
 
-  
+   
   
 
 
