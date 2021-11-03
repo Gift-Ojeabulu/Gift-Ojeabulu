@@ -70,7 +70,7 @@ Research paper:
 
 
 
-### I am currently open to speaking at hiring for data scientist or machine learning engineer.
+### I am currently open to speaking at tech events, hiring for data scientist or machine learning engineer role.
 
 ###
  
