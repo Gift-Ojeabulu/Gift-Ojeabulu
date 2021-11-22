@@ -3,12 +3,11 @@
 
 ### Hi there 👋  
 
-My Name is Gift Oscar Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer. I am  passionate about drawing insights from data and integrating softwares with Machine Learning capabilities. I am Currently a Sport Data Scientist at [CBB Analytics](https://cbbanalytics.com/) and previously, a Data Science Instructor at [Quantum Analytics](https://www.quantumanalyticsng.com/), [8th Gear Space](https://www.8thgearpartners.com/). My full work history can be found [here](https://www.linkedin.com/in/gift-ojabu/)
+My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer. I combine my knowledge of software and data science to build data driven products that can solve problems. 
   
- Languages: Python, SQL, JavaScipt, Java.
+ Languages: Python, SQL, JavaScipt.
   
   
-  ---------------------------------------------------------------------------
 
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 I am open to speaking at conferences, co-founding or Starting a tech/data science community.
