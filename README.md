@@ -10,7 +10,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
   
 
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
-- 💬 I am open to speaking at conferences, co-founding or Starting a tech/data science community.
+
 
 
 <h2>Projects I'm proud of</h2>
@@ -67,12 +67,10 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 
 
 
-### I am currently open to speaking at tech events, hiring for data scientist or machine learning engineer role.
+### I am currently open to data scientist, machine learning engineer, developer advocate or community manager role.
 
 ###
  
-- Learn more about me on my [website](https://gift-ojeabulu.github.io/#/)
-  
   ### Let's Connect
 
 <p align='center'>
