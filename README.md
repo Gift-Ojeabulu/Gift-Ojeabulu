@@ -53,7 +53,8 @@ My Name is Gift Oscar Ojeabulu. A Data Scientist & Machine Learning Engineer, Oc
 </table>
 
 
-
+ ### Latest Update
+  * I gave a talk at GDG DEVFEST Abeokuta 21 titled ["Mental Health for Software Developers and Data Practitioners"](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.gfc78924f3a_2_227)
   
  ### 📝 Latest Writing
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------)
