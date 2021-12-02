@@ -53,8 +53,8 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 </table>
 
 
- ### Latest Update
-  * I was a speaker at GDG DEVFEST Abeokuta 21 ["Mental Health for Software Developers and Data Practitioners"](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.gfc78924f3a_2_227)
+ ### Latest Tech Events
+  * I was a speaker at GDG DEVFEST Abeokuta 21 [Mental Health for Software Developers and Data Practitioners](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.gfc78924f3a_2_227)
   
  ### 📝 Latest Writing
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------)
@@ -68,7 +68,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 
 
 
-### I am currently open to Data scientist, Machine learning engineer, Data Journalist, Developer advocate and community manager role.
+### I am currently open to Data scientist, Machine learning engineer, Data Journalist, Developer advocate or community manager role.
 
 ###
  
