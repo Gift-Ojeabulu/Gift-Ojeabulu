@@ -55,7 +55,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 
  ### Latest Updates
   * Link to my slides for my talk at GDG DEVFEST Abeokuta 21 [Mental Health for Software Developers and Data Practitioners](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.gfc78924f3a_2_227)
-  
+ 
  ### 📝 Latest Writing
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------)
  * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2)
@@ -65,6 +65,9 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 
  ### Research paper:
  * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images - [ResearchGate]](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
+
+ ### Yotube Video
+ * [Tips & tricks to landing your first job as a data scientist/machine learning enginner](https://youtu.be/f4TVX6oA154)
 
 
 
