@@ -3,7 +3,7 @@
 
 ### Hi there 👋  
 
-My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer. I combine my knowledge of software and data science to build data driven products that can solve problems. 
+My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer.
   
  Languages: Python, SQL, JavaScipt.
   
