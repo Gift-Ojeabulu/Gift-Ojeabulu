@@ -71,7 +71,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 
 
 
-### I am currently open to Data scientist, Machine learning engineer, Data Journalist,ML Developer advocate or community manager role.
+### I am currently open to Data scientist & Machine learning Engineer related roles.
 
 ###
  
