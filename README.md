@@ -66,7 +66,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
  ### Research paper:
  * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images - [ResearchGate]](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
 
- ### Yotube Video
+ ### Youtube Video
  * [Tips & tricks to landing your first job as a data scientist/machine learning enginner](https://youtu.be/f4TVX6oA154)
 
 
