@@ -112,6 +112,11 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
 </code>
 
+  <h3></h3>
+
+[![](https://raw.githubusercontent.com/Gift-Ojeabulu/Gift-Ojeabulu/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Gift-Ojeabulu/Gift-Ojeabulu/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Gift-Ojeabulu/Gift-Ojeabulu/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Gift-Ojeabulu/Gift-Ojeabulu/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Gift-Ojeabulu/Gift-Ojeabulu/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ### Profile Views
