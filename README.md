@@ -60,10 +60,10 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
  * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29)
  
 
- ### Research paper:
+ ### Latest Research paper:
  * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images - [ResearchGate]](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
 
- ### Tech-Talks
+ ### Latest Tech-Talks
  * [Tips & tricks to landing your first job as a data scientist/machine learning engineer - [Youtube]](https://youtu.be/f4TVX6oA154)
  * [Mental Health for Software Developers and Data Practitioners - [GDG DevFest Abeokuta Slide]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.gfc78924f3a_2_227)
 
