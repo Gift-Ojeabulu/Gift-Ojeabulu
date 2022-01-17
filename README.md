@@ -65,11 +65,9 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 
  ### Latest Tech-Talks
  * [Tips & tricks to landing your first job as a data scientist/machine learning engineer - [Youtube]](https://youtu.be/f4TVX6oA154)
- * [Mental Health For Software Developers & Data Practitioners](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit?usp=sharing&usp=embed_facebook&usp=embed_facebook)
+ * [Mental Health For Software Developers & Data Practitioners - [GDG Devfest Abeokuta 21]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit?usp=sharing&usp=embed_facebook&usp=embed_facebook)
 
- ### Website
- * [Personal Website](https://gift-ojeabulu.github.io/#/home)
-
+ 
 ### I am currently open to Data scientist & Machine learning Engineer related roles.
 
 
