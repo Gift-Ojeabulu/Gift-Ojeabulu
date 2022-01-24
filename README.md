@@ -70,6 +70,8 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
  
 ### I am currently open to Data scientist & Machine learning Engineer related roles.
 
+* [Personal Website](https://gift-ojeabulu.github.io/#/)
+
 
   ### Let's Connect
 
