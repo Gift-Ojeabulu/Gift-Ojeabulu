@@ -67,9 +67,8 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
  * [WeboDoc: A Web Based Application for Classifying Pneumonia and Malaria Infected Images - [ResearchGate]](https://www.researchgate.net/publication/338681432_WeboDoc_A_Web_Based_Application_for_Classifying_Pneumonia_and_Malaria_Infected_Images)
 
  ### Latest Tech-Talks
- * [Introduction to Gith & Github](https://www.linkedin.com/posts/quantum-analytics-ng_data-analytics-datascientist-activity-6891739236853501952--eRW)
+ * [Introduction to Gith & Github - [Webinar]](https://www.linkedin.com/posts/quantum-analytics-ng_data-analytics-datascientist-activity-6891739236853501952--eRW)
  * [Tips & tricks to landing your first job as a data scientist/machine learning engineer - [Youtube]](https://youtu.be/f4TVX6oA154)
- 
  * [Mental Health For Software Developers & Data Practitioners - [Google Devfest Abeokuta 21]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.g1035b4f5ff8_0_0)
 
  
