@@ -52,7 +52,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
   </tbody>
 </table>
 
-### 📝 Latest Updates
+### � Latest Updates
   * [I started a Newsletter on Community Updates about the latest trend, open source tools ml tools created by Africans](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20)
   * [I co-hosted a data science twitter space](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20)
 
@@ -69,7 +69,8 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
  ### Latest Tech-Talks
  * [Introduction to Gith & Github](https://www.linkedin.com/posts/quantum-analytics-ng_data-analytics-datascientist-activity-6891739236853501952--eRW)
  * [Tips & tricks to landing your first job as a data scientist/machine learning engineer - [Youtube]](https://youtu.be/f4TVX6oA154)
- * [Mental Health For Software Developers & Data Practitioners - [GDG Devfest Abeokuta 21]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit?usp=sharing&usp=embed_facebook&usp=embed_facebook
+ 
+ * [Mental Health For Software Developers & Data Practitioners - [Google Devfest Abeokuta 21]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.g1035b4f5ff8_0_0)
 
  
 ### I am currently open to Data scientist & Machine learning Engineer related roles.
