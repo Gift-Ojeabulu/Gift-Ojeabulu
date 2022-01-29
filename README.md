@@ -14,7 +14,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 
 
 
-<h2>Projects I'm proud of</h2>
+<h2>My Main Project</h2>
 <table>
   <thead align="center">
     <tr border: none;>
