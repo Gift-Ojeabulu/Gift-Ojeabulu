@@ -53,8 +53,8 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 </table>
 
 ### � Latest Updates
-  * [Started a Newsletter on Community Updates about the latest trend, open source tools ml tools created by Africans](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20)
-  * [Co-hosted a data science twitter space](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20)
+  * [Started the African Data community Newsletter on the latest trends,community participation & open source tools ml tools created by Africans with over 100 Active Subscribers](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20)
+  * [Co-hosted a Data science twitter space with over 1500 attendees](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20)
 
  ### 📝 Latest Writing
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------)
