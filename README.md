@@ -53,7 +53,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 </table>
 
 ### � Latest Updates
-  * [Started the African Data community Newsletter on the latest trends,community participation & open source tools ml tools created by Africans with over 140 Active Subscribers](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20) `January` `2022`
+  * [Started the African Data community Newsletter on the latest trends,community participation & open source tools ml tools created by Africans with over 150 Active Subscribers](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20) `January` `2022`
   * [Co-hosted a Data science twitter space with over 1500 attendees](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20) `January` `2022`
   * [Co-hosting & speaking in a twitter space titled `Building Mini Data Science projects`](https://twitter.com/samsonafo/status/1487481172607254532?s=20&t=VM5_ia8AqXylYNH9IsOQ3w) `February` `2022`
 
