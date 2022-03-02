@@ -53,23 +53,23 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 </table>
 
 ### � Community Updates
+ * [Hosted a twitter space with A pricipal Data Scientist & Founder of DataTalksClub on Building your Data Science Career](https://twitter.com/GiftOjeabulu_/status/1498307146986962944?s=20&t=9RdqTj40vScwmv4riVts9A) `March` `2022`
  * [Co-organized a twitter space titled Building Mini Data Science projects for the Data science community](https://twitter.com/samsonafo/status/1487481172607254532?s=20&t=VM5_ia8AqXylYNH9IsOQ3w) `February` `2022`
   * [Started the African Data community Newsletter on the latest trends,community participation & open source tools ml tools created by Africans with over 290 Subscribers](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20) `January` `2022`
   * [Hosted a Data science twitter space with over 1500 attendees](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20) `January` `2022`
  
- ### 📝 Latest Writing
- * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
- * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2) `October` `2021`
- * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29) `September` `2021`
- * [Exploratory Data Analysis Expounded with FIFA 21 (Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e) `July` `2021`
- 
-
  ### Latest Public Speaking
  * [MLops Exploration with Git & DVC for Machine learning in production on DAGsHub - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1496441087803764736?s=20&t=OzOz_zSfdls4p63KOTBrcg) `March` `2022`
  * [An Elaborate study on Content Creation for Data Practitioners - [Webinar]](https://twitter.com/GiftOjeabulu_/status/1496470687036358663?s=20&t=OzOz_zSfdls4p63KOTBrcg) `February` `2022`
  * [Introduction to Git & Github - [Webinar]](https://www.linkedin.com/posts/quantum-analytics-ng_data-analytics-datascientist-activity-6891739236853501952--eRW) `January` `2022`
  * [Tips & tricks to landing your first job as a data scientist/machine learning engineer - [Youtube]](https://youtu.be/f4TVX6oA154) `December` `2021`
  * [Mental Health For Software Developers & Data Practitioners - [Tech Conference]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.g1035b4f5ff8_0_0) `November` `2021`
+
+### 📝 Latest Writing
+ * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
+ * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2) `October` `2021`
+ * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29) `September` `2021`
+ * [Exploratory Data Analysis Expounded with FIFA 21 (Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e) `July` `2021`
 
 
  ### Latest Research paper:
