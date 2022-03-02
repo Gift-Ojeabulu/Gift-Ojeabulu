@@ -55,7 +55,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 ### � Community Updates
  * [Hosted a twitter space & invited Alexey Grigrov - A principal Data Scientist & Founder of DataTalksClub as a speaker on Building your Data Science Career](https://twitter.com/GiftOjeabulu_/status/1498307146986962944?s=20&t=9RdqTj40vScwmv4riVts9A) `March` `2022`
  * [Co-organized a twitter space titled Building Mini Data Science projects for the Data science community](https://twitter.com/samsonafo/status/1487481172607254532?s=20&t=VM5_ia8AqXylYNH9IsOQ3w) `February` `2022`
-  * [Started the African Data community Newsletter on the latest trends,community participation & open source tools ml tools created by Africans with over 290 Subscribers](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20) `January` `2022`
+  * [Started the African Data community Newsletter on the latest trends,community participation & open source tools ml tools created by Africans with over 300 Subscribers](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20) `January` `2022`
   * [Hosted a Data science twitter space with over 1500 attendees](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20) `January` `2022`
  
  ### Latest Public Speaking
