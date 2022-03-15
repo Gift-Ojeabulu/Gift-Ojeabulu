@@ -59,6 +59,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
   * [Hosted a Data science twitter space with over 1500 attendees](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20) `January` `2022`
  
  ### Latest Public Speaking
+ * [Validating your ML models & Data with Minimal Effort using DeepChecks  - [Tech Conference]]( https://twitter.com/GiftOjeabulu_/status/1503040406275166219?s=20&t=g67lSsETCf1T8IF1ZWdQSw) `March` `2022` 
  * [MLops Exploration with Git & DVC for Machine learning in production on DAGsHub - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1496441087803764736?s=20&t=OzOz_zSfdls4p63KOTBrcg) `March` `2022`
  * [An Elaborate study on Content Creation for Data Practitioners - [Webinar]](https://twitter.com/GiftOjeabulu_/status/1496470687036358663?s=20&t=OzOz_zSfdls4p63KOTBrcg) `February` `2022`
  * [Introduction to Git & Github - [Webinar]](https://www.linkedin.com/posts/quantum-analytics-ng_data-analytics-datascientist-activity-6891739236853501952--eRW) `January` `2022`
