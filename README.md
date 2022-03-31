@@ -59,7 +59,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
   * [Hosted a Data science twitter space with over 1500 attendees](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20) `January` `2022`
  
  ### Latest Public Speaking
- * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on Paas - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `April` `2022` 
+ * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `April` `2022` 
  * [MLOps New York: Validating your ML models & Data with Minimal Effort using DeepChecks  - [Tech Conference]](https://docs.google.com/presentation/d/1F5aMFBHK7rTJhjjw-NdgXjY5ePSrluLwj93c5EGSoPc/edit#slide=id.g121068acc67_0_0) `March` `2022` 
  * [Open Source Africa: MLops Exploration with Git & DVC for Machine learning in production on DAGsHub - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1496441087803764736?s=20&t=OzOz_zSfdls4p63KOTBrcg) `March` `2022`
  * [An Elaborate study on Content Creation for Data Practitioners - [Webinar]](https://twitter.com/GiftOjeabulu_/status/1496470687036358663?s=20&t=OzOz_zSfdls4p63KOTBrcg) `February` `2022`
