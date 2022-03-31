@@ -3,7 +3,7 @@
 
 ### Hi there 👋  
 
-My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasional Speaker and Writer.
+My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
   
  Languages: Python, SQL, JavaScipt.
   
@@ -58,7 +58,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
   * [Started the African Data community Newsletter on the latest trends,community participation & open source data tools created by Africans with over 570 Subscribers](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20) `January` `2022`
   * [Hosted a Data science twitter space with over 1500 attendees](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20) `January` `2022`
  
- ### Latest Public Speaking
+ ### Public Speaking
  * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) with PyCaret and Streamlit - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `April` `2022` 
  * [MLOps World New York City: Validating your ML models & Data with Minimal Effort using DeepChecks  - [Tech Conference]](https://speakerdeck.com/giftojabu1/mlops-exploration-with-git-and-dvc-for-machine-learning-project-on-dagshub) `March` `2022` 
  * [Open Source Africa: MLops Exploration with Git & DVC for Machine learning in production on DAGsHub - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1496441087803764736?s=20&t=OzOz_zSfdls4p63KOTBrcg) `March` `2022`
@@ -71,7 +71,7 @@ My Name is Gift Ojeabulu. A Data Scientist & Machine Learning Engineer, Occasion
 ### 📝 Latest Newsletter issue
  * [First-Inter Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
 
-### 📝 Latest Writing
+### 📝Writing
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
  * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2) `October` `2021`
  * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29) `September` `2021`
