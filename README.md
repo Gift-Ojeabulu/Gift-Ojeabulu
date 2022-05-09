@@ -69,7 +69,8 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
  * [The Rudiment in Data Science - [Webinar]](https://www.linkedin.com/posts/gift-ojabu_giftojeabulu-activity-6796093792681377792-8YFl?utm_source=linkedin_share&utm_medium=member_desktop_web) `May` `2021`
 
 ### 📝 Latest Newsletter issue
- * [First-Inter Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
+ * [First Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
+ * [Second Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `May` `2022`
 
 ### 📝Writing
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
