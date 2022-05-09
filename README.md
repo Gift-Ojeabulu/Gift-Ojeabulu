@@ -70,7 +70,7 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
 
 ### 📝 Latest Newsletter issue
  * [First Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
- * [Second Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `May` `2022`
+ * [Second Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/second-inter-quartile-newsletter-1080982) `May` `2022`
 
 ### 📝Writing
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
