@@ -9,7 +9,7 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
   
   
 
-- 👯I’m looking to collaborate on open source documentation in Data science, Machine learning, MLOps & NLP.
+- 👯I’m looking to collaborate on open source documentation in Data science, Machine learning, MLOps
 - �Outside work, I'm a Community Advocate who is passionate about democratizing data knowledge to everyone and constantly providing guidance to enthusiast on how to navigate and transition in the data science space.
 
 
