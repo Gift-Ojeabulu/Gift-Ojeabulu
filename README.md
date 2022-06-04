@@ -52,11 +52,6 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
   </tbody>
 </table>
 
-### � Community Updates
- * [Hosted a twitter space & invited Alexey Grigrov - A principal Data Scientist at OLX & Founder of DataTalksClub as a speaker on Building your Data Science Career](https://twitter.com/GiftOjeabulu_/status/1498307146986962944?s=20&t=9RdqTj40vScwmv4riVts9A) `March` `2022`
- * [Co-organized a twitter space titled Building Mini Data Science projects for the Data science community](https://twitter.com/samsonafo/status/1487481172607254532?s=20&t=VM5_ia8AqXylYNH9IsOQ3w) `February` `2022`
-  * [Started the African Data community Newsletter on the latest trends,community participation & open source data tools created by Africans with over 570 Subscribers](https://twitter.com/GiftOjeabulu_/status/1486028873494151173?s=20) `January` `2022`
-  * [Hosted a Data science twitter space with over 1500 attendees](https://twitter.com/GiftOjeabulu_/status/1485980078987268096?s=20) `January` `2022`
  
  ### Public Speaking
  * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) with PyCaret and Streamlit - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `May 5` `2022` 
@@ -68,9 +63,9 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
  * [GDG DevFest Abeokuta: Mental Health For Software Developers & Data Practitioners - [Tech Conference]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.g1035b4f5ff8_0_0) `November` `2021`
  * [The Rudiment in Data Science - [Webinar]](https://www.linkedin.com/posts/gift-ojabu_giftojeabulu-activity-6796093792681377792-8YFl?utm_source=linkedin_share&utm_medium=member_desktop_web) `May` `2021`
 
-### 📝 Latest Newsletter issue
- * [First Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
+### 📝 My Newsletter
  * [Second Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/second-inter-quartile-newsletter-1080982) `May` `2022`
+ * [First Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
 
 ### 📝Writing
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
