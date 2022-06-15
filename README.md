@@ -63,7 +63,7 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
  * [GDG DevFest Abeokuta: Mental Health For Software Developers & Data Practitioners - [Tech Conference]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.g1035b4f5ff8_0_0) `November` `2021`
  * [The Rudiment in Data Science - [Webinar]](https://www.linkedin.com/posts/gift-ojabu_giftojeabulu-activity-6796093792681377792-8YFl?utm_source=linkedin_share&utm_medium=member_desktop_web) `May` `2021`
 
-### 📝 My Newsletter
+### 📝 My Newsletter - The African Data Community Newsletter
  * [Second Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/second-inter-quartile-newsletter-1080982) `May` `2022`
  * [First Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
 
