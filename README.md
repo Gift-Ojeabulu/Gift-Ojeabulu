@@ -93,9 +93,6 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
   <a href="https://medium.com/@giftojeabulu">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="https://wa.me/+2349077393129">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>&nbsp;&nbsp;
   
   
 
