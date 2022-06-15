@@ -124,9 +124,6 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
 [![](https://raw.githubusercontent.com/Gift-Ojeabulu/Gift-Ojeabulu/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Gift-Ojeabulu/Gift-Ojeabulu/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-### Profile Views
-
-![](https://komarev.com/ghpvc/?username=Gift-Ojeabulu&color=dc143c)
   
 
 ###  Most Used Languages & Github Stats
@@ -135,9 +132,6 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gift-Ojeabulu&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
     
-<a href="https://github.com/Gift-Ojeabulu/Gift-Ojeabulu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gift-Ojeabulu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gift GitHub Stats" />
-</a>
 
    
   
