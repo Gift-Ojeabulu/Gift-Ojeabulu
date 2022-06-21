@@ -3,7 +3,7 @@
 
 ### Hi there 👋  
 
-My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker and Writer.
+My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker, Podcaster and Writer.
   
  Languages: Python, SQL, JavaScipt.
   
