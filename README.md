@@ -65,7 +65,7 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker, Podcaster and Wr
 
 
  ### Podcast
- * [MLOps 101 - [Spotify] - A chat with Engatica](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `June` `2022`
+ * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
 
 
 ### 📝Technical Writing
