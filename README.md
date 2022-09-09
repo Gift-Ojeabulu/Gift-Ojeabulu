@@ -77,7 +77,7 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker, Podcaster and Wr
 ### 📝 My Newsletter - The African Data Community Newsletter
  * [Second Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/second-inter-quartile-newsletter-1080982) `May` `2022`
  * [First Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
- 
+ * [Third Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/3rd-inter-quartile-newsletter-1130741) `Sept` `2022`
 
 
  ### Latest Research paper:
