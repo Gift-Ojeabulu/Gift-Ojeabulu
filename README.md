@@ -66,6 +66,7 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker, Podcaster and Wr
 
  ### Podcast
  * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source, Community & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
+ * [A structured data career into the data and machine learning field with Matt Blasa](https://www.linkedin.com/posts/gift-ojabu_data-datascience-podcast-activity-6975773154304536578-pwX1?utm_source=share&utm_medium=member_desktop) `July` `2022`
 
 
 ### 📝Technical Writing
@@ -75,9 +76,10 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker, Podcaster and Wr
  * [Exploratory Data Analysis Expounded with FIFA 21 (Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e) `July` `2021`
 
 ### 📝 My Newsletter - The African Data Community Newsletter
+ * [Third Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/3rd-inter-quartile-newsletter-1130741) `Sept` `2022`
  * [Second Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/second-inter-quartile-newsletter-1080982) `May` `2022`
  * [First Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
- * [Third Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/3rd-inter-quartile-newsletter-1130741) `Sept` `2022`
+
 
 
  ### Latest Research paper:
