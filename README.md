@@ -60,7 +60,7 @@ My Name is Gift Ojeabulu. A Data Scientist, Occasional Speaker, Podcaster and Wr
  * [An Elaborate study on Content Creation for Data Practitioners - [Webinar]](https://twitter.com/GiftOjeabulu_/status/1496470687036358663?s=20&t=OzOz_zSfdls4p63KOTBrcg) `February` `2022`
  * [Introduction to Git & Github - [Webinar]](https://www.linkedin.com/posts/quantum-analytics-ng_data-analytics-datascientist-activity-6891739236853501952--eRW) `January` `2022`
  * [Tips & tricks to landing your first job as a data scientist/machine learning engineer - [Youtube]](https://youtu.be/f4TVX6oA154) `December` `2021`
- * [GDG DevFest Abeokuta: Mental Health For Software Developers & Data Practitioners - [Tech Conference]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.g1035b4f5ff8_0_0) `November` `2021`
+ * [GDG DevFest Abeokuta: Mental Health For Software Developers & Data Practitioners - [Tech Conference]](https://gdg.community.dev/events/details/google-gdg-abeokuta-presents-devfest-abeokuta-2021/) `November` `2021`
  * [The Rudiment in Data Science - [Webinar]](https://www.linkedin.com/posts/gift-ojabu_giftojeabulu-activity-6796093792681377792-8YFl?utm_source=linkedin_share&utm_medium=member_desktop_web) `May` `2021`
 
 
