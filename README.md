@@ -54,7 +54,7 @@ My Name is Gift Ojeabulu. A Data Scientist, Public Speaker, Podcast Host and Wri
 
  
  ### Public Speaking
-  * [DataFestAfrica: An introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://datafestafrica.sessionize.com/speaker/8adc8746-ab40-4fe3-a041-f82b91a0f022) `OCT 15` `2022`
+  * [DataFestAfrica: An Introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://datafestafrica.sessionize.com/speaker/8adc8746-ab40-4fe3-a041-f82b91a0f022) `OCT 15` `2022`
  * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) with PyCaret and Streamlit - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `May 5` `2022` 
  * [MLOps World New York City: Validating your ML models & Data with Minimal Effort using DeepChecks  - [Tech Conference]](https://docs.google.com/presentation/d/1F5aMFBHK7rTJhjjw-NdgXjY5ePSrluLwj93c5EGSoPc/edit#slide=id.g121068acc67_0_0) `March 30` `2022` 
  * [Open Source Africa: MLOps Exploration with Git & DVC for Machine learning in production on DAGsHub - [Tech Conference]](https://medium.com/@giftojeabulu) `March 25` `2022`
@@ -66,6 +66,7 @@ My Name is Gift Ojeabulu. A Data Scientist, Public Speaker, Podcast Host and Wri
 
 
  ### Podcast
+ * [Democratizing data knowledge and community building in Africa](https://www.thekeycuts.com/dear-analyst-106-democratizing-data-knowledge-and-community-building-in-africa-with-gift-ojeabulu/) `October` `2022`
  * [A structured data career into the data and machine learning field with Matt Blasa](https://anchor.fm/datapodchat) `September` `2022`
  * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source, Community & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
 
