@@ -3,7 +3,7 @@
 
 ### Hi there 👋  
 
-My Name is Gift Ojeabulu. A Data Scientist, Public Speaker, Podcast Host and Writer.
+My Name is Gift Ojeabulu. A Data Scientist, [Public Speaker](https://speakerdeck.com/giftojabu1), [Podcast Host](https://twitter.com/datapodchat), [MLOps Lagos meetup organizer](https://www.meetup.com/lagos-mlops-community/), [Co-founder & Community Manager at DatafestAfrica](https://twitter.com/datafestafrica) and [Technical Writer](medium.com/@giftojeabulu).
   
  Languages: Python, SQL, JavaScipt.
   
