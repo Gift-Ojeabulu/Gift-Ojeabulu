@@ -9,7 +9,7 @@ My Name is Gift Ojeabulu. A Data Scientist, [Public Speaker](https://speakerdeck
   
   
 
-- 👯I’m looking to collaborate on open source ML projects, Writing books in Data science, Machine learning and MLOps.
+- 👯I’m looking to collaborate on open source ML projects, Writing books on Data science, Machine learning, Python, data career, community and MLOps.
 - �Outside work, I'm a Community Advocate who is passionate about democratizing data knowledge to everyone and constantly providing guidance to enthusiast on how to navigate and transition in the data science space.
 
 
