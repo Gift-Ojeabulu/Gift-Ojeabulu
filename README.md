@@ -54,7 +54,7 @@ My Name is Gift Ojeabulu. A Data Scientist, [Public Speaker](https://speakerdeck
 
  
  ### Public Speaking
-  * [A structured data career leading to a data Job:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022`
+  * [Datapodchat: A structured data career leading to a data Job with Matt Blasa:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022`
   * [DataFestAfrica: An Introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://speakerdeck.com/giftojabu1/an-introductory-guide-to-simplifying-mlops-process-with-dvc-cml-and-mlem) `October 15` `2022`
  * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) with PyCaret and Streamlit - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `May 5` `2022` 
  * [MLOps World New York City: Validating your ML models & Data with Minimal Effort using DeepChecks  - [Tech Conference]](https://docs.google.com/presentation/d/1F5aMFBHK7rTJhjjw-NdgXjY5ePSrluLwj93c5EGSoPc/edit#slide=id.g121068acc67_0_0) `March 30` `2022` 
