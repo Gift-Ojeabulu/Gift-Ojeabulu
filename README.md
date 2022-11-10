@@ -68,7 +68,7 @@ My Name is Gift Ojeabulu. A Data Scientist, [Public Speaker](https://speakerdeck
 
  ### Podcast
  * [Democratizing data knowledge and community building in Africa](https://www.thekeycuts.com/dear-analyst-106-democratizing-data-knowledge-and-community-building-in-africa-with-gift-ojeabulu/) `October` `2022`
- * [A structured data career into the data and machine learning field with Matt Blasa](https://anchor.fm/datapodchat) `September` `2022`
+ * [A structured data career into the data and machine learning field with Matt Blasa](https://open.spotify.com/episode/4ZTa8rS0J8bHKVhYe7kwLs?si=r3TrdFw7SoGRYUHF_468tQ) `September` `2022`
  * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source, Community & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
 
 ### 📝Technical Writing
