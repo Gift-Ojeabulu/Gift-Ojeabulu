@@ -54,7 +54,7 @@ My Name is Gift Ojeabulu. A Data Scientist, [Public Speaker](https://speakerdeck
 
  
  ### Public Speaking
-  * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops) `November 19` `2022`
+  * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d) `November 19` `2022`
   * [Datapodchat: A structured data career leading to a data Job with Matt Blasa:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022`
   * [DataFestAfrica: An Introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6991044887521472513-24Nr?utm_source=share&utm_medium=member_desktop) `October 15` `2022`
  * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) with PyCaret and Streamlit - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `May 5` `2022` 
@@ -68,6 +68,7 @@ My Name is Gift Ojeabulu. A Data Scientist, [Public Speaker](https://speakerdeck
 
 
  ### Podcast
+ * [Devrel Book Club: Quiet by Susan Cain](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d)`November 29` `2022`
  * [Democratizing data knowledge and community building in Africa](https://www.thekeycuts.com/dear-analyst-106-democratizing-data-knowledge-and-community-building-in-africa-with-gift-ojeabulu/) `October` `2022`
  * [A structured data career into the data and machine learning field with Matt Blasa](https://open.spotify.com/episode/4ZTa8rS0J8bHKVhYe7kwLs?si=r3TrdFw7SoGRYUHF_468tQ) `September` `2022`
  * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source, Community & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
