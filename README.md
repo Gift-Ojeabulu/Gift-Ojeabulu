@@ -10,6 +10,9 @@ My Name is Gift Ojeabulu. A Data Scientist that also do the following:
 * [MLOps Lagos meetup organizer](https://www.meetup.com/lagos-mlops-community/)
 * [Co-founder & Community Manager at DatafestAfrica](https://twitter.com/datafestafrica) 
 * [Technical Writing](https://medium.com/@giftojeabulu)
+* [Newsletter](https://www.getrevue.co/profile/giftojeabulu_)
+
+
   
  Languages: Python, SQL, JavaScipt.
   
