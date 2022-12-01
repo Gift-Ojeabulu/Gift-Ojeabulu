@@ -64,7 +64,7 @@ My Name is Gift Ojeabulu. A Data Scientist that also do the following:
  
  ### Public Speaking
  * [GDG DevFest Abeokuta: 6 productivity tips for an Entry - Level, Junior or a Beginner Data Scientist and ML Engineer Demystified - [Tech Conference]](https://gdg.community.dev/events/details/google-gdg-abeokuta-presents-devfest-abeokuta-2022/) `December 8` `2022` `In - person`
-  * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d) `November 19` `2022` 'In - person'
+  * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d) `November 19` `2022` `In-person`
   * [Datapodchat: A structured data career leading to a data Job with Matt Blasa:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022` `Online`
   * [DataFestAfrica: An Introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6991044887521472513-24Nr?utm_source=share&utm_medium=member_desktop) `October 15` `2022` `In - person`
  * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) with PyCaret and Streamlit - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `May 5` `2022` `In-person`
