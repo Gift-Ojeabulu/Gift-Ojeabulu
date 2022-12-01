@@ -63,18 +63,18 @@ My Name is Gift Ojeabulu. A Data Scientist that also do the following:
 
  
  ### Public Speaking
- * [GDG DevFest Abeokuta: 6 productivity tips for an Entry - Level, Junior or a Beginner Data Scientist and ML Engineer Demystified - [Tech Conference]](https://gdg.community.dev/events/details/google-gdg-abeokuta-presents-devfest-abeokuta-2022/) `December 8` `2022`
-  * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d) `November 19` `2022`
-  * [Datapodchat: A structured data career leading to a data Job with Matt Blasa:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022`
-  * [DataFestAfrica: An Introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6991044887521472513-24Nr?utm_source=share&utm_medium=member_desktop) `October 15` `2022`
- * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) with PyCaret and Streamlit - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `May 5` `2022` 
- * [MLOps World New York City: Validating your ML models & Data with Minimal Effort using DeepChecks  - [Tech Conference]](https://docs.google.com/presentation/d/1F5aMFBHK7rTJhjjw-NdgXjY5ePSrluLwj93c5EGSoPc/edit#slide=id.g121068acc67_0_0) `March 30` `2022` 
- * [Open Source Africa: MLOps Exploration with Git & DVC for Machine learning project on DAGsHub - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6930493978848935936--Nsb?utm_source=share&utm_medium=member_desktop) `March 25` `2022`
- * [An Elaborate study on Content Creation for Data Practitioners - [Webinar]](https://twitter.com/GiftOjeabulu_/status/1496470687036358663?s=20&t=OzOz_zSfdls4p63KOTBrcg) `February` `2022`
- * [Introduction to Git & Github - [Webinar]](https://www.linkedin.com/posts/quantum-analytics-ng_data-analytics-datascientist-activity-6891739236853501952--eRW) `January` `2022`
+ * [GDG DevFest Abeokuta: 6 productivity tips for an Entry - Level, Junior or a Beginner Data Scientist and ML Engineer Demystified - [Tech Conference]](https://gdg.community.dev/events/details/google-gdg-abeokuta-presents-devfest-abeokuta-2022/) `December 8` `2022` `In - person`
+  * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d) `November 19` `2022` 'In - person'
+  * [Datapodchat: A structured data career leading to a data Job with Matt Blasa:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022` `Online`
+  * [DataFestAfrica: An Introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6991044887521472513-24Nr?utm_source=share&utm_medium=member_desktop) `October 15` `2022` `In - person`
+ * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) with PyCaret and Streamlit - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `May 5` `2022` `In-person`
+ * [MLOps World New York City: Validating your ML models & Data with Minimal Effort using DeepChecks  - [Tech Conference]](https://docs.google.com/presentation/d/1F5aMFBHK7rTJhjjw-NdgXjY5ePSrluLwj93c5EGSoPc/edit#slide=id.g121068acc67_0_0) `March 30` `2022` `Online`
+ * [Open Source Africa: MLOps Exploration with Git & DVC for Machine learning project on DAGsHub - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6930493978848935936--Nsb?utm_source=share&utm_medium=member_desktop) `March 25` `2022` `In-person`
+ * [An Elaborate study on Content Creation for Data Practitioners - [Webinar]](https://twitter.com/GiftOjeabulu_/status/1496470687036358663?s=20&t=OzOz_zSfdls4p63KOTBrcg) `February` `2022` `Online`
+ * [Introduction to Git & Github - [Webinar]](https://www.linkedin.com/posts/quantum-analytics-ng_data-analytics-datascientist-activity-6891739236853501952--eRW) `January` `2022` `Online`
  * [Tips & tricks to landing your first job as a data scientist/machine learning engineer - [Youtube]](https://youtu.be/f4TVX6oA154) `December` `2021`
- * [GDG DevFest Abeokuta: Mental Health For Software Developers & Data Practitioners - [Tech Conference]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.g1035b4f5ff8_0_0) `November` `2021`
- * [The Rudiment in Data Science - [Webinar]](https://www.linkedin.com/posts/gift-ojabu_giftojeabulu-activity-6796093792681377792-8YFl?utm_source=linkedin_share&utm_medium=member_desktop_web) `May` `2021`
+ * [GDG DevFest Abeokuta: Mental Health For Software Developers & Data Practitioners - [Tech Conference]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.g1035b4f5ff8_0_0) `November` `2021` `In-person`
+ * [The Rudiment in Data Science - [Webinar]](https://www.linkedin.com/posts/gift-ojabu_giftojeabulu-activity-6796093792681377792-8YFl?utm_source=linkedin_share&utm_medium=member_desktop_web) `May` `2021`  `Online`
 
 
  ### Podcast
