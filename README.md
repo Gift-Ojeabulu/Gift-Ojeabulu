@@ -63,7 +63,7 @@ My Name is Gift Ojeabulu. A Data Scientist that also do the following:
 
  
  ### Public Speaking
- * [GDG DevFest Abeokuta: 6 productivity tips for an Entry - Level, Junior or a Beginner Data Scientist and ML Engineer Demystified - [Tech Conference]](https://gdg.community.dev/events/details/google-gdg-abeokuta-presents-devfest-abeokuta-2022/) `December 8` `2022` `In - person`
+ * [GDG DevFest Abeokuta: 6 productivity tips for a Beginner Data Scientist and ML Engineer Demystified - [Tech Conference]](https://gdg.community.dev/events/details/google-gdg-abeokuta-presents-devfest-abeokuta-2022/) `December 10` `2022` `In - person`
   * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d) `November 19` `2022` `In-person`
   * [Datapodchat: A structured data career leading to a data Job with Matt Blasa:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022` `Online`
   * [DataFestAfrica: An Introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6991044887521472513-24Nr?utm_source=share&utm_medium=member_desktop) `October 15` `2022` `In - person`
@@ -78,6 +78,7 @@ My Name is Gift Ojeabulu. A Data Scientist that also do the following:
 
 
  ### Podcast
+ * [The MLOps community Lagos podcast - Episode 1](https://open.spotify.com/episode/7lAYSuddfhWgIMDKUAa1Pt?si=Aq1ku4CVSbGIvxRTivWeVg) `December` `2022`
  * [Devrel Book Club: Quiet by Susan Cain](https://developerrelations.com/pt/podcast/quiet-with-bekah-hawrot-weigel?utm_source=rss&utm_medium=rss&utm_campaign=quiet-with-bekah-hawrot-weigel)`November 29` `2022`
  * [Democratizing data knowledge and community building in Africa](https://www.thekeycuts.com/dear-analyst-106-democratizing-data-knowledge-and-community-building-in-africa-with-gift-ojeabulu/) `October` `2022`
  * [A structured data career into the data and machine learning field with Matt Blasa](https://open.spotify.com/episode/4ZTa8rS0J8bHKVhYe7kwLs?si=r3TrdFw7SoGRYUHF_468tQ) `September` `2022`
