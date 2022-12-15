@@ -3,24 +3,22 @@
 
 ### Hi there 👋  
 
-My Name is Gift Ojeabulu. A Data Scientist that also does the following:
-
-* [Public Speaking](https://speakerdeck.com/giftojabu1) 
-* [Technical Writing](https://medium.com/@giftojeabulu)
-* [MLOps Lagos meetup organizer](https://www.meetup.com/lagos-mlops-community/)
-* [Co-founder & Community Manager at DatafestAfrica](https://twitter.com/datafestafrica) 
-* [Newsletter](https://www.getrevue.co/profile/giftojeabulu_)
-* [Podcast](https://twitter.com/datapodchat) 
-
-
+My Name is Gift Ojeabulu. I am a Data Scientist. I combine my knowledge of software and data science to build data driven products that can solve problems.
   
  Languages: Python, SQL, JavaScipt.
   
   
-
-- 👯I’m looking to collaborate on open source ML projects, Writing books on Data science, Machine learning, Python, Tech Career, Developer/Data community and MLOps.
+- I’m currently leading the documentation for the open source data tool [Slik Wrangler](https://github.com/AdesholaAfolabi/slik_python_package)
+- 👯I’m looking to collaborate on open source ML projects, Writing books on Data science, Machine learning, Python, data community and MLOps.
+- 💬 Ask me about OSS, Community Building, Machine Learning and Data Science.
 - �Outside work, I'm a Community Advocate who is passionate about democratizing data knowledge to everyone and constantly providing guidance to enthusiast on how to navigate and transition in the data science space.
 
+Latest Updates:
+* I became the co-founder and community lead for [Data Community Africa](https://twitter.com/datafestafrica)
+* I became the Organizer for [Lagos MLOps community](https://www.meetup.com/lagos-mlops-community/)
+* I became an [AWS ML Community Builder](https://www.linkedin.com/posts/gift-ojabu_awscommunitybuilders-machinelearning-datacommunity-activity-6965972868279021568-UapW?utm_source=share&utm_medium=member_desktop)
+* I became a [Global AI Hub ML thought leader](https://www.linkedin.com/posts/gift-ojabu_machinelearning-datascience-giftojeabulu-activity-6912043792971784193-Qym9?utm_source=share&utm_medium=member_desktop)
+* I started the [African Data Community Newslettter](https://www.getrevue.co/profile/giftojeabulu_)
 
 
 <h2>Projects I'm proud of</h2>
@@ -61,6 +59,8 @@ My Name is Gift Ojeabulu. A Data Scientist that also does the following:
   </tbody>
 </table>
 
+
+
  
  ### Public Speaking
  * [GDG DevFest Abeokuta: 6 productivity tips for a Beginner Data Scientist and ML Engineer Demystified - [Tech Conference]](https://speakerdeck.com/giftojabu1/6-productivity-tips-for-beginner-data-scientists) `December 10` `2022` `In - person`
@@ -95,7 +95,6 @@ My Name is Gift Ojeabulu. A Data Scientist that also does the following:
  * [Third Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/3rd-inter-quartile-newsletter-1130741) `Sept` `2022`
  * [Second Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/second-inter-quartile-newsletter-1080982) `May` `2022`
  * [First Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
-
 
 
  ### Latest Research paper:
