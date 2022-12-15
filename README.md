@@ -3,7 +3,7 @@
 
 ### Hi there 👋  
 
-My Name is Gift Ojeabulu. A Data Scientist that also do the following:
+My Name is Gift Ojeabulu. A Data Scientist that also does the following:
 
 * [Public Speaking](https://speakerdeck.com/giftojabu1) 
 * [Technical Writing](https://medium.com/@giftojeabulu)
