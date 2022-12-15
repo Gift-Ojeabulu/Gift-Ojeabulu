@@ -62,7 +62,7 @@ Latest Updates:
 
 
  
- ### Public Speaking
+ ### Public Speaking/Talks
  * [GDG DevFest Abeokuta: 6 productivity tips for a Beginner Data Scientist and ML Engineer Demystified - [Tech Conference]](https://speakerdeck.com/giftojabu1/6-productivity-tips-for-beginner-data-scientists) `December 10` `2022` `In - person`
   * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d) `November 19` `2022` `In-person`
   * [Datapodchat: A structured data career leading to a data Job with Matt Blasa:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022` `Online`
@@ -84,7 +84,7 @@ Latest Updates:
  * [A structured data career into the data and machine learning field with Matt Blasa](https://open.spotify.com/episode/4ZTa8rS0J8bHKVhYe7kwLs?si=r3TrdFw7SoGRYUHF_468tQ) `September` `2022`
  * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source, Community & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
 
-### 📝Technical Writing
+### 📝Writing
 * [The Data Community As A Service (Part 1) Published on TowardsAI](https://pub.towardsai.net/the-data-community-as-a-service-part-1-1bd268add482) `November` `2022`
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
  * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2) `October` `2021`
