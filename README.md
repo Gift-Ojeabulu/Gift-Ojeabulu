@@ -5,7 +5,7 @@
 
 My Name is Gift Ojeabulu. I am a Data Scientist. I combine my knowledge of software and data science to build data driven products that can solve problems.
   
- Languages: Python, SQL, JavaScipt.
+ Languages: Python, SQL, JavaScript.
   
   
 - I’m currently leading the documentation for the open source data tool [Slik Wrangler](https://github.com/AdesholaAfolabi/slik_python_package)
