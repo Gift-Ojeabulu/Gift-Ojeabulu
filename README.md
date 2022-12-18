@@ -59,14 +59,14 @@ Latest Updates:
   </tbody>
 </table>
 
-
+I also love giving talks and writing about my learnings and experience. 
 
  
  ### Public Speaking/Talks
  * [GDG DevFest Abeokuta: 6 productivity tips for a Beginner Data Scientist and ML Engineer Demystified - [Tech Conference]](https://speakerdeck.com/giftojabu1/6-productivity-tips-for-beginner-data-scientists) `December 10` `2022` `In - person`
-  * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d) `November 19` `2022` `In-person`
-  * [Datapodchat: A structured data career leading to a data Job with Matt Blasa:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022` `Online`
-  * [DataFestAfrica: An Introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6991044887521472513-24Nr?utm_source=share&utm_medium=member_desktop) `October 15` `2022` `In - person`
+ * [GDG DevFest Ajah: An Introduction to Machine Learning Operations(MLOps) - [Tech Conference]](https://speakerdeck.com/giftojabu1/introduction-to-machine-learning-operations-mlops-0371f984-fa73-4378-8b9a-cb48476c857d) `November 19` `2022` `In-person`
+ * [Datapodchat: A structured data career leading to a data Job with Matt Blasa:From Military to a Data Scientist - [Youtube]](https://youtu.be/qvtWjsAJtQo) `November 3` `2022` `Online`
+ * [DataFestAfrica: An Introductory guide to simplifying MLOps process with DVC, CML & MLEM - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6991044887521472513-24Nr?utm_source=share&utm_medium=member_desktop) `October 15` `2022` `In - person`
  * [Pycon Kenya: Demystifying & Deploying Machine Learning Web App on a Paas(Heroku) with PyCaret and Streamlit - [Tech Conference]](https://twitter.com/GiftOjeabulu_/status/1509449557666635777?s=20&t=sJog-FErONrtAez6WGuZfw) `May 5` `2022` `In-person`
  * [MLOps World New York City: Validating your ML models & Data with Minimal Effort using DeepChecks  - [Tech Conference]](https://docs.google.com/presentation/d/1F5aMFBHK7rTJhjjw-NdgXjY5ePSrluLwj93c5EGSoPc/edit#slide=id.g121068acc67_0_0) `March 30` `2022` `Online`
  * [Open Source Africa: MLOps Exploration with Git & DVC for Machine learning project on DAGsHub - [Tech Conference]](https://www.linkedin.com/posts/gift-ojabu_machinelearning-opensource-africa-activity-6930493978848935936--Nsb?utm_source=share&utm_medium=member_desktop) `March 25` `2022` `In-person`
@@ -85,13 +85,13 @@ Latest Updates:
  * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source, Community & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
 
 ### 📝Writing
-* [The Data Community As A Service (Part 1) Published on TowardsAI](https://pub.towardsai.net/the-data-community-as-a-service-part-1-1bd268add482) `November` `2022`
+ * [The Data Community As A Service (Part 1) Published on TowardsAI](https://pub.towardsai.net/the-data-community-as-a-service-part-1-1bd268add482) `November` `2022`
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
  * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2) `October` `2021`
  * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29) `September` `2021`
  * [Exploratory Data Analysis Expounded with FIFA 21 (Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e) `July` `2021`
 
-### 📝 My Newsletter - The African Data Community Newsletter
+### 📝Newsletter
  * [Third Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/3rd-inter-quartile-newsletter-1130741) `Sept` `2022`
  * [Second Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/second-inter-quartile-newsletter-1080982) `May` `2022`
  * [First Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/first-inter-quartile-newsletter-1004938) `March` `2022`
