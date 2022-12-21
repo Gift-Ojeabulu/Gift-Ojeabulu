@@ -85,6 +85,7 @@ I also love giving talks and writing about my learnings and experience.
  * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source, Community & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
 
 ### 📝Writing
+* [A Practical Guide to Building a Sustainable Data/AI Community](https://medium.com/geekculture/a-practical-guide-to-building-a-sustainable-data-ai-community-354b5d8c37e8) `December` `2022`
  * [The Data Community As A Service (Part 1) Published on TowardsAI](https://pub.towardsai.net/the-data-community-as-a-service-part-1-1bd268add482) `November` `2022`
  * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
  * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2) `October` `2021`
