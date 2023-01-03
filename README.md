@@ -59,7 +59,22 @@ Latest Updates:
   </tbody>
 </table>
 
-I also love giving talks and writing about my learnings and experience. 
+### 📝Writing
+* [A Practical Guide to Building a Sustainable Data/AI Community](https://medium.com/geekculture/a-practical-guide-to-building-a-sustainable-data-ai-community-354b5d8c37e8) `December` `2022`
+ * [The Data Community As A Service (Part 1) Published on TowardsAI](https://pub.towardsai.net/the-data-community-as-a-service-part-1-1bd268add482) `November` `2022`
+ * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
+ * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2) `October` `2021`
+ * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29) `September` `2021`
+ * [Exploratory Data Analysis Expounded with FIFA 21 (Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e) `July` `2021`
+
+
+
+### Podcast
+ * [The MLOps community Lagos podcast - Episode 1](https://open.spotify.com/episode/7lAYSuddfhWgIMDKUAa1Pt?si=Aq1ku4CVSbGIvxRTivWeVg) `December` `2022`
+ * [Devrel Book Club: Quiet by Susan Cain](https://developerrelations.com/pt/podcast/quiet-with-bekah-hawrot-weigel?utm_source=rss&utm_medium=rss&utm_campaign=quiet-with-bekah-hawrot-weigel)`November 29` `2022`
+ * [Democratizing data knowledge and community building in Africa](https://www.thekeycuts.com/dear-analyst-106-democratizing-data-knowledge-and-community-building-in-africa-with-gift-ojeabulu/) `October` `2022`
+ * [A structured data career into the data and machine learning field with Matt Blasa](https://open.spotify.com/episode/4ZTa8rS0J8bHKVhYe7kwLs?si=r3TrdFw7SoGRYUHF_468tQ) `September` `2022`
+ * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source, Community & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
 
  
  ### Public Speaking/Talks
@@ -77,20 +92,6 @@ I also love giving talks and writing about my learnings and experience.
  * [The Rudiment in Data Science - [Webinar]](https://www.linkedin.com/posts/gift-ojabu_giftojeabulu-activity-6796093792681377792-8YFl?utm_source=linkedin_share&utm_medium=member_desktop_web) `May` `2021`  `Online`
 
 
- ### Podcast
- * [The MLOps community Lagos podcast - Episode 1](https://open.spotify.com/episode/7lAYSuddfhWgIMDKUAa1Pt?si=Aq1ku4CVSbGIvxRTivWeVg) `December` `2022`
- * [Devrel Book Club: Quiet by Susan Cain](https://developerrelations.com/pt/podcast/quiet-with-bekah-hawrot-weigel?utm_source=rss&utm_medium=rss&utm_campaign=quiet-with-bekah-hawrot-weigel)`November 29` `2022`
- * [Democratizing data knowledge and community building in Africa](https://www.thekeycuts.com/dear-analyst-106-democratizing-data-knowledge-and-community-building-in-africa-with-gift-ojeabulu/) `October` `2022`
- * [A structured data career into the data and machine learning field with Matt Blasa](https://open.spotify.com/episode/4ZTa8rS0J8bHKVhYe7kwLs?si=r3TrdFw7SoGRYUHF_468tQ) `September` `2022`
- * [MLOps 101 - [Spotify] - A chat with Engatica on MLOps, Open -source, Community & AI](https://open.spotify.com/episode/3xCpFkAR7Dfr4cBzjVkM5v?si=SviHUD9ZQYGMin1kymSylg&nd=1) `July` `2022`
-
-### 📝Writing
-* [A Practical Guide to Building a Sustainable Data/AI Community](https://medium.com/geekculture/a-practical-guide-to-building-a-sustainable-data-ai-community-354b5d8c37e8) `December` `2022`
- * [The Data Community As A Service (Part 1) Published on TowardsAI](https://pub.towardsai.net/the-data-community-as-a-service-part-1-1bd268add482) `November` `2022`
- * [6 productivity tips for beginner data scientists Published on TowardsAI](https://pub.towardsai.net/6-productivity-tips-for-beginner-data-scientists-44ed6cc87a11?source=user_profile---------0-------------------------------) `November` `2021`
- * [Exploratory Data Analysis Demystified with FIFA 21 (Part 2) Published on Geek Culture](https://giftojeabulu.medium.com/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2) `October` `2021`
- * [A Prelude to Data Science & Machine Learning with Javascript Published on LinkedIn Pulse](https://www.linkedin.com/feed/update/urn:li:ugcPost:6840931357837811714?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6840931357837811714%29) `September` `2021`
- * [Exploratory Data Analysis Expounded with FIFA 21 (Part 1) Published on TowardsAI](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e) `July` `2021`
 
 ### 📝Newsletter
  * [Third Inter-Quartile Newsletter](https://www.getrevue.co/profile/giftojeabulu_/issues/3rd-inter-quartile-newsletter-1130741) `Sept` `2022`
